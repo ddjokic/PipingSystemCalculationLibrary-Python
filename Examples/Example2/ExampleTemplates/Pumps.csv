@@ -1,5 +1,5 @@
-Pump#,AH,BH,,comment
-0,-0.000027,45.18,,"Nov-12 in impeller, Magnum 8x6x14"
-1,-0.000014,51.85,,"Nov-13in impeller, Magnum 8x6x14"
-2,-0.000007,53.99,,"Nov-14in Impeller, Magnum 8x6x14"
-3,-0.00001,48.799,,MudHog 12.5in impeller
+Pump#,AH,BH,comment
+0,-0.000027,45.18,'Pump A, with impeller 1'
+1,-0.000014,51.85,'Pump B, with impeller 2'
+2,-0.000007,53.99,'Pump A, with impeller 2'
+3,-0.00001,48.799,'Pump B, with impeller 3'
