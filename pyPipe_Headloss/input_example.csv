@@ -1,0 +1,4 @@
+,ID [mm],Roughness [mm],Reducer/Enlarg. ID [mm],Length [m],Static Head [m],Standard 90 deg Elbow,LR Elbow,SR Elbow,Return bend,Standard 45 deg Elbow,Butterfly Valve,Gate Valve,Angle Valve,Globe Valve,Duo Check Valve,Swing Check,Footvalve Standard,Footvalve Poppet Type Pipe exit,Tee Flow through Header,Tee-Flow  through branch,Pipe Exit,Pipe entrance,Strainer,Sudden contraction,Sudden enlargement,User,
+#,PipeIDmm,Roughness_mm,OtherIDmm,pipeLen_m,statHead_m,num_90deg_el,numLR_el,num_SR_el,numRet_Bnd,num_45deg_el,numButfVlv,numGtVlv,numAngVlv,numGlVlv,numDuoChkVlv,numSwgChlVlv,numFootStdVlv,numFootPopVlv,numTFlowHead,numTFlowBran,numPipExit,numPipEntr,numStrainer,numContraction,numEnlarg,User,
+0,200,0.04572,150,12,-1.25,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1,100,0.04572,150,5,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,10

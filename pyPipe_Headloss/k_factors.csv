@@ -1,0 +1,3 @@
+Standard 90 deg Elbow,LR Elbow,SR Elbow,Return bend,Standard 45 deg Elbow,Butterfly Valve,Gate Valve,Angle Valve,Globe Valve,Duo Check Valve,Swing Check,Footvalve Standard,Footvalve Poppet Type Pipe exit,Tee Flow through Header,Tee-Flow  through branch,Pipe Exit,Pipe entrance,Strainer,Sudden contraction,Sudden enlargement,User
+num_90deg_el,numLR_el,num_SR_el,numRet_Bnd,num_45deg_el,numButfVlv,numGtVlv,numAngVlv,numGlVlv,numDuoChkVlv,numSwgChlVlv,numFootStdVlv,numFootPopVlv,numTFlowHead,numTFlowBran,numPipExit,numPipEntr,numStrainer,numContraction,numEnlarg,User
+0.54,0.6,0.9,2.2,0.29,0.8,0.15,5,6.5,0.8,1,1.4,8,0.4,1.1,1,0.8,8.43,1,1,1
