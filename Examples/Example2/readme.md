@@ -1,6 +1,6 @@
 # Example 2: Working Point Calculation
 
-I was challenged recently to pick the best *for the purpose* one out of four pumps. Challenge was that pump should work in two modes, giving above 300 cum/h @ some pressure and approx. 30 cum/h @ more than 7.5 barg. Fluid was **drilling mud**, 1620 kg/cum, with kinamatic viscosity of 0.216 cSt.
+I was challenged recently to pick the best *for the purpose* one out of four pumps. Challenge was that pump should work in two modes, giving above 300 cum/h @ some pressure and approx. 30 cum/h @ more than 7.5 barg. Fluid was **drilling mud**, 1620 kg/cum, with kinamatic viscosity of 0.0216 cSt.
 
 I come with WP.py script, which takes output of pyHeadlosses.py, connects pipes in serial connection (as many pipes as there are in the system but min. 2) and plot system curve(s) against pump curves.
 
